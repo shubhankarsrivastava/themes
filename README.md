@@ -1,0 +1,7 @@
+## WEB THEME
+
+CUSTOM THEME FOR ERPNEXT
+
+#### License
+
+MIT
